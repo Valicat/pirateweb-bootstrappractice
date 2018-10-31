@@ -1,25 +1,3 @@
-.navbar-nav a:hover {
-  text-decoration: underline;
-  color: #800; }
-
-.jumbotron {
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6a/Amerigo_vespucci_1976_nyc_aufgetakelt.jpg);
-  background-size: cover;
-  font-family: 'Indie Flower', cursive; }
-
-.carosel {
-  max-width: 100%; }
-
-.col-4 {
-  border-right: 1px solid black; }
-
-.byline {
-  font-family: 'Times New Roman', Times, serif;
-  font-style: italic; }
-
-.captain {
-  font-family: 'Indie Flower', cursive; }
-
 /*!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
