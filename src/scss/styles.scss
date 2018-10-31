@@ -1,0 +1,15 @@
+// Variable Overrides
+
+.nav > ul:hover > a {
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    }
+.jumbotron {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6a/Amerigo_vespucci_1976_nyc_aufgetakelt.jpg);
+    background-size: cover;
+}
+.col-4 {
+    border-right: 1px solid black;
+}
+// Bootstrap Sass Imports
+@import "../../node_modules/bootstrap/scss/bootstrap";
